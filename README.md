@@ -10,7 +10,7 @@
 >
 > Hoje construo soluções no Salesforce começando pelo **problema de negócio**: escrevo as user stories com critérios de aceite, mapeio o processo, model o dado e só então abro o Salesforce. Depois valido tudo com testes e documento o case.
 
-**📍 Suzano, SP · Brasil** · **🟢 Aberto a oportunidades em Business Analysis, análise funcional e administração de Salesforce**
+**📍 Suzano, SP · Brasil** · **🟢 Aberto a oportunidades em Business Analysis, Análise Funcional e Administração de Salesforce**
 
 ---
 
