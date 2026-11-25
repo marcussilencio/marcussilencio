@@ -8,7 +8,7 @@
 
 > **Há mais de 16 anos no lado comercial da empresa** — prospecção, negociação, gestão de carteira e acompanhamento de contratos. **Nos últimos 8 anos usei CRMs de verdade** no dia a dia (Zoho, RD Station, Nectar CRM) e vi de perto o que um sistema precisa resolver para não virar só mais uma planilha.
 >
-> Hoje construo soluções no Salesforce começando pelo **problema de negócio**: escrevo as user stories com critérios de aceite, mapeio o processo, model o dado e só então abro o Salesforce. Depois valido tudo com testes e documento o case.
+> Hoje construo soluções no Salesforce começando pelo **problema de negócio**: escrevo as user stories com critérios de aceite, mapeio o processo, modelo o dado e só então abro o Salesforce. Depois valido tudo com testes e documento o case.
 
 **📍 Suzano, SP · Brasil** · **🟢 Aberto a oportunidades em Business Analysis, análise funcional e administração de Salesforce**
 
