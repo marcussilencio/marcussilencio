@@ -44,7 +44,6 @@ Case completo em uma **empresa fictícia** (Fera Recruiting): do problema de neg
 ## 🔭 Agora
 
 - 🌱 **Aprendendo:** trilhas no Trailhead (Rank Adventurer · 21 emblemas · 13.450 pontos)
-- 📦 **Planejando:** Job Application Tracker — funil de candidaturas com follow-up automático e dashboard de taxa de resposta
 - 🎓 **Formação:** Gestão de Internet e Redes de Computadores (UMC) · Gestão de Vendas e Marketing (FGV)
 
 ## 🎓 Certificações e cursos
@@ -57,8 +56,6 @@ Case completo em uma **empresa fictícia** (Fera Recruiting): do problema de neg
 ---
 
 ## 🤝 Vamos conversar
-
-O melhor canal é o **LinkedIn** — por lá eu respondo mensagem e comentário.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcusviniciussilencio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusviniciussilencio/)
 [![Trailblazer](https://img.shields.io/badge/Trailblazer-Perfil-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/zl9vw4c18hf8b7grzo)
